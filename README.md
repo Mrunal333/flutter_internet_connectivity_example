@@ -30,3 +30,7 @@ samples, guidance on mobile development, and a full API reference.
     </td>
   </tr>
 </table>
+
+## ⭐️ License
+
+MIT License
